@@ -1,4 +1,2 @@
 # jhoak.github.io
-test
-test
-test
+Welcome to my site's source code. WIPAF
